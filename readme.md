@@ -20,7 +20,7 @@ Keymap - Need to add.
 
 ### Notes
 
-The Minidox has 36 keys, 6 less than the Atreus. To deal with the reduced number a lot of the keymaps have a press key & a hold key assigned for each function key. Maybe this is fine for most, but I found that I had a lazy space press, which would turn into CTRL. This would go from wanting to press space and a 'W' to closing my browser tab, so my keymap doesn't use the seperate press & hold presses. 
+The Minidox has 36 keys, 6 less than the Atreus. To deal with the reduced number a lot of the keymaps have a press key & a hold key assigned for each function key. Maybe this is fine for most, but I found that I had a lazy 'space' press, which would turn into CTRL. This would go from wanting to press space and a 'W' to closing my browser tab, so my keymap doesn't use the seperate press & hold presses for 'space'. 
 
 ---
 
