@@ -8,7 +8,7 @@ Most people likey don't think twice about the keyboard they use, although gaming
 
 ## Current Setup
 
-Using a Minidox with Yellow Ink V2 switches & some double shot PBT caps. I had initially made one with red Gateron switches. They were fine, but a bit too light for me. The Yellow Ink keycaps are more satisfying.  
+Using a Minidox with Yellow Ink V2 switches & some double shot PBT caps. I had initially made one with red Gateron switches. They were fine, but a bit too light for me. The Inks are more satisfying.  
 
 ### Sourcing 
 
