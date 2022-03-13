@@ -24,7 +24,7 @@ PCB (the board) & electronics - [Minidox PCB & Electronics](https://shop.profetk
 Switches - [Gateron Yellow Ink V2](https://www.ctrlshiftesc.co.za/products/ink-v2-switch)  
 Keycaps - [KBDFANS PG RETRO](https://www.ctrlshiftesc.co.za/products/kbdfans-pg-retro-keycap-set)  
 Case - [Thingiverse](https://www.thingiverse.com/thing:2856789)  
-Keymap - [QMK Firmware](https://github.com/rudithefox/qmk_firmware)
+Keymap - [QMK Firmware](https://github.com/rudithefox/qmk_firmware/blob/master/keyboards/maple_computing/minidox/keymaps/rudi/keymap.c)
 ### Notes
 
 The Minidox has 36 keys, 6 less than the Atreus. To deal with the reduced number a lot of the keymaps have a press key & a hold key assigned for each function key. Maybe this is fine for most, but I found that I had a lazy 'space' press, which would turn into CTRL. This would go from wanting to press space and a 'W' to closing my browser tab, so my keymap doesn't use the seperate press & hold presses for 'space'. 
